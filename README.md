@@ -95,7 +95,7 @@ Now, you are almost ready to share your recipe with the remote!
 - [x] Checkout a new branch called `task_3`.
 - [x] Commit any changes that you want to `recipe.md` to improve the recipe.
 - [x] While still on the `task_3` branch, push your code to your remote repository on GitHub.
-- [ ] Go to GitHub and you will see an option to make a pull request to the original repo. Make
+- [x] Go to GitHub and you will see an option to make a pull request to the original repo. Make
   a pull request and see that it shows up in the original repository that you forked.
 
 Since others will also be making pull requests, we won't *actually* accept any of them for now, but
@@ -121,7 +121,7 @@ proceed. If you have any changes you want to keep, you will typically want to co
 Note: you can use `git status` or `Git -> commit...` to see the status of your files to check which
 ones have changes not yet committed.
 
-### TASK 3 Additional Note
+### TASK 3 Additional Note meow
 
 When making a pull request, there may potentially be merge conflicts to resolve, as we had seen in the
 previous task. GitHub as additional information about how its interface helps facilitate resolving such
